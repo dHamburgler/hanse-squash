@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", "~> 227", group: :jekyll_plugins
 gem "webrick"
 gem "faraday-retry"
+gem "minima", "~> 2.5"
 
 # Specify any additional plugins for your site
 group :jekyll_plugins do
